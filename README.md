@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**saurabhchopade/saurabhchopade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Saurabh Chopade! 
 
-Here are some ideas to get you started:
+🚀 **Software Engineer | Developer **  
+💡 Curious about AGI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 👨‍💻 I have **100+ experiences per year** in software development.
+- 💼 Currently working at **Wissen** as a **Problem solver**.
+- 🎯 Focused on **Anything which Product need**.
+- 📖 Learning **Typescript** as a new language.
+
+## 🚀 Technologies & Tools
+🔹 **Languages:** Java, C++, SQL, Python  
+🔹 **Backend:** Spring Boot, Hibernate, REST APIs, Microservices  
+🔹 **Databases:** MySQL, PostgreSQL, Redis  
+🔹 **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, Jenkins  
+🔹 **Other Skills:** JUnit, Mockito, Swagger, Agile, Unix, Maven, Git  
+
+## 📊 GitHub Stats
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhchopade&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhchopade&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurabhchopade&theme=dark)  
+
+## 🌱 Currently Learning
+- Advanced **System Design**  
+- **Low-Level Design (LLD)**  
+- **High-Performance Computing**  
+
+## 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabhchopade/)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/saurabhchopade)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/saurabhchopade)  
+
+---
+
+💬 **Feel free to connect for Java, Spring Boot, Microservices, or interview prep discussions!** 🚀
