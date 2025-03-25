@@ -6,7 +6,7 @@
 💡 Curious about AGI.
 
 ## 🔥 About Me
-- 👨‍💻 I have **100+ experiences per year** in software development.
+- 👨‍💻 I have **___ experiences per year** building softwares.
 - 💼 Currently working at **Wissen** as a **Problem solver**.
 - 🎯 Focused on **Anything which Product need**.
 - 📖 Learning **Typescript** as a new language.
