@@ -6,7 +6,7 @@
 💡 Curious about AGI.
 
 ## 🔥 About Me
-- 👨‍💻 I have **___ experiences per year** building softwares.
+- 👨‍💻 I have been pushing bugs in production for while.
 - 💼 Currently working at **Wissen** as a **Problem solver**.
 - 🎯 Focused on **Anything which Product need**.
 - 📖 Learning **Typescript** as a new language.
