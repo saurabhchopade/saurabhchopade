@@ -15,7 +15,7 @@
 🔹 **Languages:** Java, C++, SQL, Python  
 🔹 **Backend:** Spring Boot, Hibernate, REST APIs, Microservices  
 🔹 **Databases:** MySQL, PostgreSQL, Redis  
-🔹 **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, Jenkins  
+🔹 **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, Jenkinss
 🔹 **Other Skills:** JUnit, Mockito, Swagger, Agile, Unix, Maven, Git  
 
 ## 📊 GitHub Stats
