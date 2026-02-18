@@ -32,9 +32,3 @@
 
 ## 🌱 Currently Learning
 - Advanced **Prompts**  
-
----
-
----
-
-💬 **Feel free to connect for Java, Spring Boot, Microservices, System Design, or interview prep discussions!** 🚀
