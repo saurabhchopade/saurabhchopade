@@ -2,8 +2,8 @@
 
 # 👋 Hey there, I'm Saurabh Chopade! 
 
-🚀 **Software Engineer | Backend Developer**  
-💡 Curious about AGI.
+🚀 **Tinkering Around**  
+💡 Nowdays pushing code from chatbox.
 
 ---
 
